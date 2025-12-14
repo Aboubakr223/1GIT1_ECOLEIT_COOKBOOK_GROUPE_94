@@ -4,7 +4,7 @@ Bienvenue sur notre livre de recettes collaboratif.
 
 ## Sommaire
 
-- [Recette](recettes/desserts/SOMMAIRE.md)
+- [Recettes](recettes/desserts/SOMMAIRE.md)
 
 ## Auteurs
 - ABOUBAKR Sidick Sidibe – 111679
