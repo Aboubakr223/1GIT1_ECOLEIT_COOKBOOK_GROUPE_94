@@ -4,7 +4,7 @@ Bienvenue sur notre livre de recettes collaboratif.
 
 ## Sommaire
 
-- [Recettes](recettes/desserts/SOMMAIRE.md)
+- [Recettes](recettes/desserts/Tiramisu.md)
 
 ## Auteurs
 - ABOUBAKR Sidick Sidibe – 111679
